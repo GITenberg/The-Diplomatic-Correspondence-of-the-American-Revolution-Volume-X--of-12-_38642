@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32656'
     url: http://www.gutenberg.org/2009/agents/32656
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38642#The-Diplomatic-Correspondence-of-the-American-Revolution-Volume-X--of-12-
 gutenberg_issued: '2012-01-22'
 gutenberg_type: Text
 identifiers:
